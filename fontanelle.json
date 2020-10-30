@@ -173,6 +173,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Untere Donaulände", "img": "form/uploads/3E56C14E-DFCA-40C6-BE10-D90BED37E659.jpeg", "status": "1", "city":"Linz", "country":"AUT", "id":167},"geometry": { "type": "Point", "coordinates": [ 14.294254, 48.312463 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Herrenstraße", "img": "form/uploads/37D89F85-1572-4DCC-B902-F2562E924CF7.jpeg", "status": "1", "city":"Linz", "country":"AUT", "id":168},"geometry": { "type": "Point", "coordinates": [ 14.28677, 48.300578 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Am Volksgarten", "img": "form/uploads/2DA060AE-DAB1-47FF-9ACE-C60BF91130A4.jpeg", "status": "1", "city":"Linz", "country":"AUT", "id":169},"geometry": { "type": "Point", "coordinates": [ 14.29148, 48.295086 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Gablenzgasse", "img": "form/uploads/BCDFF385-3507-435B-B872-4C028026289A.jpeg", "status": "1", "city":"Wien", "country":"Aus", "id":170},"geometry": { "type": "Point", "coordinates": [ 16.335704, 48.20404 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Gablenzgasse", "img": "form/uploads/BCDFF385-3507-435B-B872-4C028026289A.jpeg", "status": "1", "city":"Wien", "country":"AUT", "id":170},"geometry": { "type": "Point", "coordinates": [ 16.335704, 48.20404 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Mariahilfer strasse", "img": "form/uploads/EF43F284-C20E-4DC5-A2F2-C25B53E912F0.jpeg", "status": "1", "city":"Wien", "country":"AUT", "id":171},"geometry": { "type": "Point", "coordinates": [ 16.351313044650148, 48.19889493294515 ] } }
 ]
 }
