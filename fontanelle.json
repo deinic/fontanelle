@@ -179,6 +179,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale lato San Pasquale", "img": "form/uploads/2020-11-06 11.07.27.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":173},"geometry": { "type": "Point", "coordinates": [ 14.235374, 40.833112 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Rotonda Diaz)", "img": "form/uploads/IMG_20201106_111457.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":174},"geometry": { "type": "Point", "coordinates": [ 14.232091, 40.833225 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Fontana Gruppo Europa)", "img": "form/uploads/IMG_20201106_112053.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":175},"geometry": { "type": "Point", "coordinates": [ 14.231082, 40.832925 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Arco Mirelli)", "img": "form/uploads/IMG_20201106_112520.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":176},"geometry": { "type": "Point", "coordinates": [ 14.227858, 40.832688 ] } }  
+{ "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Arco Mirelli)", "img": "form/uploads/IMG_20201106_112520.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":176},"geometry": { "type": "Point", "coordinates": [ 14.227858, 40.832688 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Piazza Pitesti", "img": "form/uploads/Screenshot_20201106_195413.jpg", "status": "1", "city":"Caserta ", "country":"ITA", "id":177},"geometry": { "type": "Point", "coordinates": [ 14.34256, 41.080104 ] } }  
 ]
 }
