@@ -1,5 +1,7 @@
 # fontanelle
-JSON progetto acquamat
+JSON source data for Acquamat project
+
+Website: https://maps.nicoladeinnocentis.it/acquamat/
 
 AcquaMAT is a project powered by CleaNAP, based in Naples. It is creating a crowdsourced map of drinking water points 
 scattered in all the cities of Europe, with the aim of promoting the use of public water, thus reducing the purchase 
@@ -12,14 +14,14 @@ you can find the whole public json where the project takes its source data.
 
 Attributes
 
-'indirizzo' = address 
-'img' = path to picture of drinking water point
-'status' = Drinking Water point status (0:to be checked, 1:working, 2:not working)
-'city' = Drinking Water point city
-'country' = Drinking Water spot country (eg. ITA, AUT, ESP, FRA, etc..)
+'indirizzo' = address <br>
+'img' = path to picture of drinking water point<br>
+'status' = Drinking Water point status (0:to be checked, 1:working, 2:not working)<br>
+'city' = Drinking Water point city<br>
+'country' = Drinking Water spot country (eg. ITA, AUT, ESP, FRA, etc..)<br>
 
 
 
 
-*Part of data are taken by OSM, in particular record data which have properties status = 0 and city = 'Naples'
+*Part of data are taken by OSM, in detail only record data which have properties set as status = 0 AND city = 'Naples'
 
