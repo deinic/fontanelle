@@ -29,7 +29,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Piazza Nazionale", "status": "0", "city": "Napoli", "country": "ITA", "id": 23 }, "geometry": { "type": "Point", "coordinates": [ 14.2739141, 40.8584581 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Luigi Poderico", "status": "0", "city": "Napoli", "country": "ITA", "id": 24 }, "geometry": { "type": "Point", "coordinates": [ 14.2706808, 40.8603144 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Via Carlo Cattaneo 86", "status": "0", "city": "Napoli", "country": "ITA", "id": 25 }, "geometry": { "type": "Point", "coordinates": [ 14.2315904, 40.8572041 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco Mascagna", "status": "0", "city": "Napoli", "country": "ITA", "id": 26 }, "geometry": { "type": "Point", "coordinates": [ 14.2288201, 40.8493021 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Parco mascagna", "img": "form/uploads/846A0CF5-3A8E-44D3-A154-BB35264D69A7.jpeg", "status": "1", "city":"Napoli", "country":"Italia", "id":26},"geometry": { "type": "Point", "coordinates": [ 14.2288201, 40.8493021 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Medaglie d'Oro ", "status": "0", "city": "Napoli", "country": "ITA", "id": 27 }, "geometry": { "type": "Point", "coordinates": [ 14.2306806, 40.8505674 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Largo madre Teresa di Calcutta", "status": "0", "city": "Napoli", "country": "ITA", "id": 28 }, "geometry": { "type": "Point", "coordinates": [ 14.2180682, 40.8375879 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Francesco Muzii", "status": "0", "city": "Napoli", "country": "ITA", "id": 29 }, "geometry": { "type": "Point", "coordinates": [ 14.2301089, 40.8533876 ] } },
@@ -181,7 +181,6 @@
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Fontana Europa)", "img": "form/uploads/IMG_20201106_112053.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":175},"geometry": { "type": "Point", "coordinates": [ 14.231082, 40.832925 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Arco Mirelli)", "img": "form/uploads/IMG_20201106_112520.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":176},"geometry": { "type": "Point", "coordinates": [ 14.227858, 40.832688 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Pitesti", "img": "form/uploads/Screenshot_20201106_195413.jpg", "status": "1", "city":"Caserta ", "country":"ITA", "id":177},"geometry": { "type": "Point", "coordinates": [ 14.34256, 41.080104 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco mascagna", "img": "form/uploads/846A0CF5-3A8E-44D3-A154-BB35264D69A7.jpeg", "status": "1", "city":"Napoli", "country":"Italia", "id":179},"geometry": { "type": "Point", "coordinates": [ 14.228116, 40.851455 ] } }  
+{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } }
 ]
 }
