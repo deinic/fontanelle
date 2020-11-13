@@ -67,7 +67,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Via Nuova Poggioreale", "status": "0", "city": "Napoli", "country": "ITA", "id": 61 }, "geometry": { "type": "Point", "coordinates": [ 14.282847634159268, 40.862818028932786 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Via Nuova Poggioreale", "status": "0", "city": "Napoli", "country": "ITA", "id": 62 }, "geometry": { "type": "Point", "coordinates": [ 14.285512238116524, 40.863817255416762 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza IV giornate", "status": "0", "city": "Napoli", "country": "ITA", "id": 63 }, "geometry": { "type": "Point", "coordinates": [ 14.225192266034123, 40.846366875125881 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Via Giambattista Ruoppolo", "status": "0", "city": "Napoli", "country": "ITA", "id": 64 }, "geometry": { "type": "Point", "coordinates": [ 14.227498813834625, 40.849414862855632 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Via Giambattista Ruoppolo", "img": "form/uploads/E9CA7C00-9579-489C-A58B-7DC6E24720C5.jpeg", "status": "1", "city":"Napoli", "country":"Italia", "id":64},"geometry": { "type": "Point", "coordinates": [ 14.227498813834625, 40.84941486285563 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Via Alessandro Scarlatti", "status": "0", "city": "Napoli", "country": "ITA", "id": 65 }, "geometry": { "type": "Point", "coordinates": [ 14.230725482689117, 40.843735925671737 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Parco De Filippo", "status": "0", "city": "Napoli", "country": "ITA", "id": 66 }, "geometry": { "type": "Point", "coordinates": [ 14.342397369160276, 40.860597872588748 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Vincenzo Aprea", "status": "0", "city": "Napoli", "country": "ITA", "id": 67 }, "geometry": { "type": "Point", "coordinates": [ 14.33154743492182, 40.854565042691775 ] } },
@@ -181,6 +181,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Fontana Europa)", "img": "form/uploads/IMG_20201106_112053.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":175},"geometry": { "type": "Point", "coordinates": [ 14.231082, 40.832925 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Arco Mirelli)", "img": "form/uploads/IMG_20201106_112520.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":176},"geometry": { "type": "Point", "coordinates": [ 14.227858, 40.832688 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Pitesti", "img": "form/uploads/Screenshot_20201106_195413.jpg", "status": "1", "city":"Caserta ", "country":"ITA", "id":177},"geometry": { "type": "Point", "coordinates": [ 14.34256, 41.080104 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Parco mascagna", "img": "form/uploads/846A0CF5-3A8E-44D3-A154-BB35264D69A7.jpeg", "status": "1", "city":"Napoli", "country":"Italia", "id":179},"geometry": { "type": "Point", "coordinates": [ 14.228116, 40.851455 ] } }  
 ]
 }
