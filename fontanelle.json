@@ -181,6 +181,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Fontana Europa)", "img": "form/uploads/IMG_20201106_112053.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":175},"geometry": { "type": "Point", "coordinates": [ 14.231082, 40.832925 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Villa Comunale (Lato Arco Mirelli)", "img": "form/uploads/IMG_20201106_112520.jpg", "status": "1", "city":"Napoli", "country":"ITA", "id":176},"geometry": { "type": "Point", "coordinates": [ 14.227858, 40.832688 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Pitesti", "img": "form/uploads/Screenshot_20201106_195413.jpg", "status": "1", "city":"Caserta ", "country":"ITA", "id":177},"geometry": { "type": "Point", "coordinates": [ 14.34256, 41.080104 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Parco sul mare di villa Favorita ", "img": "form/uploads/image.jpg", "status": "1", "city":"Ercolano", "country":"Italia", "id":178},"geometry": { "type": "Point", "coordinates": [ 14.351095318392582, 40.797298328435545 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Mariahilfer Gürtel 29", "img": "form/uploads/7C33DC8A-504A-498B-9D78-390555D83BD9.jpeg", "status": "1", "city":"Vienna", "country":"Austria ", "id":179},"geometry": { "type": "Point", "coordinates": [ 16.338338, 48.192937 ] } }
 ]
 }
