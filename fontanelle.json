@@ -190,6 +190,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Meidlinger hauptstrasse", "img": "form/uploads/76083784-BA20-4720-B9F0-A6ABA421D107.jpeg", "status": "1", "city":"Wien", "country":"AUT", "id":184},"geometry": { "type": "Point", "coordinates": [ 16.330125, 48.18134 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Heinz-conrads-platz", "img": "form/uploads/C5AE472E-2C23-490A-84FB-80718650EF76.jpeg", "status": "1", "city":"Wien", "country":"Austria", "id":185},"geometry": { "type": "Point", "coordinates": [ 16.315303, 48.19131 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazzetta Orefici", "img": "form/uploads/2020-11-23 11.12.32.jpg", "status": "2", "city":"Napoli", "country":"ITA", "id":186},"geometry": { "type": "Point", "coordinates": [ 14.2595473, 40.8454804 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Piazzetta Mercadante", "img": "form/uploads/4B0D8166-2EDA-4266-827E-7724E6B03F38.jpeg", "status": "1", "city":"Napoli", "country":"Ita ", "id":187},"geometry": { "type": "Point", "coordinates": [ 14.223797, 40.836797 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Piazzetta Mercadante", "img": "form/uploads/4B0D8166-2EDA-4266-827E-7724E6B03F38.jpeg", "status": "1", "city":"Napoli", "country":"Ita ", "id":187},"geometry": { "type": "Point", "coordinates": [ 14.223797, 40.836797 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Piazza Italia ", "img": "form/uploads/IMG_20201129_154738.jpg", "status": "1", "city":"Napoli ", "country":"Italia ", "id":188},"geometry": { "type": "Point", "coordinates": [ 14.205043, 40.826303 ] } }
 ]
 }
