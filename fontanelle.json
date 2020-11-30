@@ -192,6 +192,6 @@
 { "type": "Feature", "properties": { "indirizzo": "Piazzetta Orefici", "img": "form/uploads/2020-11-23 11.12.32.jpg", "status": "2", "city":"Napoli", "country":"ITA", "id":186},"geometry": { "type": "Point", "coordinates": [ 14.2595473, 40.8454804 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazzetta Mercadante", "img": "form/uploads/4B0D8166-2EDA-4266-827E-7724E6B03F38.jpeg", "status": "1", "city":"Napoli", "country":"Ita ", "id":187},"geometry": { "type": "Point", "coordinates": [ 14.223797, 40.836797 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Piazza Italia ", "img": "form/uploads/IMG_20201129_154738.jpg", "status": "1", "city":"Napoli ", "country":"ITA", "id":188},"geometry": { "type": "Point", "coordinates": [ 14.205043, 40.826303 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Via Consalvo ", "img": "form/uploads/IMG_20201130_120156.jpg", "status": "1", "city":"Napoli ", "country":"ITA ", "id":189},"geometry": { "type": "Point", "coordinates": [ 14.2071057, 40.8308134 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Via Consalvo ", "img": "form/uploads/IMG_20201130_120156.jpg", "status": "1", "city":"Napoli ", "country":"ITA ", "id":189},"geometry": { "type": "Point", "coordinates": [ 14.207229, 40.830662 ] } }
 ]
 }
