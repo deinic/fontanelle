@@ -2155,7 +2155,7 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Reithofferplatz - 1",
-        "img": "form/uploads/3287980F-C0D1-4FED-8615-5AEA0B96C5EE.jpeg",
+        "img": "form/uploads/DD2C6F34-7921-4485-B3A9-0CCE1C93985D.jpeg",
         "status": "1",
         "city": "Wien",
         "country": "AUT",
@@ -2173,7 +2173,7 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Reithofferplatz - 2",
-        "img": "form/uploads/CAE1953E-B764-421F-9223-EE7397C93DA4.jpeg",
+        "img": "form/uploads/E7BE35FB-6DE0-4D01-95B1-E6DDDBC159B1.jpeg",
         "status": "1",
         "city": "Wien",
         "country": "AUT",
@@ -3360,48 +3360,12 @@
     {
       "type": "Feature",
       "properties": {
-        "indirizzo": "Reithofferpark",
-        "img": "form/uploads/DD2C6F34-7921-4485-B3A9-0CCE1C93985D.jpeg",
-        "status": "1",
-        "city": "Wien",
-        "country": "AUT",
-        "id": 190
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.330855,
-          48.19804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "indirizzo": "Reithofferplatz",
-        "img": "form/uploads/E7BE35FB-6DE0-4D01-95B1-E6DDDBC159B1.jpeg",
-        "status": "1",
-        "city": "Wien",
-        "country": "AUT",
-        "id": 190
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.331016,
-          48.19839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "indirizzo": "Parco IV Novembre",
         "img": "",
         "status": "1",
         "city": "Matera",
         "country": "ITA",
-        "id": 192
+        "id": 190
       },
       "geometry": {
         "type": "Point",
@@ -3419,7 +3383,7 @@
         "status": "1",
         "city": "Napoli ",
         "country": "ITA ",
-        "id": 193
+        "id": 191
       },
       "geometry": {
         "type": "Point",
