@@ -195,6 +195,7 @@
 { "type": "Feature", "properties": { "indirizzo": "Via Consalvo ", "img": "form/uploads/IMG_20201130_120156.jpg", "status": "1", "city":"Napoli ", "country":"ITA ", "id":189},"geometry": { "type": "Point", "coordinates": [ 14.207229, 40.830662 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Reithofferpark", "img": "form/uploads/DD2C6F34-7921-4485-B3A9-0CCE1C93985D.jpeg", "status": "1", "city":"Wien", "country":"AUT", "id":190},"geometry": { "type": "Point", "coordinates": [ 16.330855, 48.19804 ] } },
 { "type": "Feature", "properties": { "indirizzo": "Reithofferplatz", "img": "form/uploads/E7BE35FB-6DE0-4D01-95B1-E6DDDBC159B1.jpeg", "status": "1", "city":"Wien", "country":"AUT", "id":190},"geometry": { "type": "Point", "coordinates": [ 16.331016, 48.19839 ] } },
-{ "type": "Feature", "properties": { "indirizzo": "Parco IV Novembre", "img": "", "status": "1", "city":"Matera", "country":"ITA", "id":192},"geometry": { "type": "Point", "coordinates": [ 16.601412, 40.67073 ] } }
+{ "type": "Feature", "properties": { "indirizzo": "Parco IV Novembre", "img": "", "status": "1", "city":"Matera", "country":"ITA", "id":192},"geometry": { "type": "Point", "coordinates": [ 16.601412, 40.67073 ] } },
+{ "type": "Feature", "properties": { "indirizzo": "Viale campi flegrei ", "img": "form/uploads/IMG_20201203_190435.jpg", "status": "1", "city":"Napoli ", "country":"ITA ", "id":193},"geometry": { "type": "Point", "coordinates": [ 14.1668916, 40.8164587 ] } }
 ]
 }
