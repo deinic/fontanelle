@@ -2154,7 +2154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "indirizzo": "Reithofferplatz",
+        "indirizzo": "Reithofferplatz - 1",
         "img": "form/uploads/3287980F-C0D1-4FED-8615-5AEA0B96C5EE.jpeg",
         "status": "1",
         "city": "Wien",
@@ -2172,7 +2172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "indirizzo": "Reithofferplatz",
+        "indirizzo": "Reithofferplatz - 2",
         "img": "form/uploads/CAE1953E-B764-421F-9223-EE7397C93DA4.jpeg",
         "status": "1",
         "city": "Wien",
