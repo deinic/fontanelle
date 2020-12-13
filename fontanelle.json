@@ -1401,10 +1401,11 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Pontile di Bagnoli",
-        "status": "0",
+        "status": 2,
         "city": "Napoli",
         "country": "ITA",
-        "id": 81
+        "id": 81,
+        "img": "form/uploads/IMG_20201212_132855.jpg"
       },
       "geometry": {
         "type": "Point",
