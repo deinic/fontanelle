@@ -111,8 +111,8 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Via Cesario Console",
-        "img": "img/via_cesario_console.jpg",
-        "status": "1",
+        "img": "form/uploads/FE993A56-4DFF-4D2F-9849-26011A1D5D31.jpeg",
+        "status": "2",
         "city": "Napoli",
         "country": "ITA",
         "id": 6
