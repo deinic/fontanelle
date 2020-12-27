@@ -3393,6 +3393,24 @@
           40.8164587
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "indirizzo": "Piazzetta San Vincenzo",
+        "img": "form/uploads/IMG_20200606_134855.jpg",
+        "status": "1",
+        "city": "Napoli",
+        "country": "Napoli",
+        "id": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.245164,
+          40.861566
+        ]
+      }
     }
   ]
 }
