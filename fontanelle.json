@@ -3411,6 +3411,24 @@
           40.860335648560984
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "indirizzo": "Herklotzgasse",
+        "img": "form/uploads/C3B7FCBC-C3F3-44DB-9324-DC477B44F560.jpeg",
+        "status": "1",
+        "city": "Wien",
+        "country": "AUT",
+        "id": 193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.334208,
+          48.189941
+        ]
+      }
     }
   ]
 }
