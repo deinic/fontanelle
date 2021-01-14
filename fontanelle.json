@@ -3429,6 +3429,6 @@
           48.189941
         ]
       }
-    }
-  ]
+    },
+{ "type": "Feature", "properties": { "indirizzo": "Largo del Conservatorio", "img": "form/uploads/IMG-20210114-WA0001.jpg", "status": "1", "city":"Giugliano in Campania", "country":"ITA", "id":194},"geometry": { "type": "Point", "coordinates": [ 14.202157, 40.931616 ] } }  ]
 }
