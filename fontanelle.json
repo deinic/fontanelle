@@ -2749,9 +2749,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "indirizzo": "Via Lucio Sestio 35",
-        "img": "",
-        "status": "1",
+        "img": "form/uploads/D6A008C5-591D-4D17-B3C2-7CD9ABA424BD.jpeg",
+        "status": 1,
         "city": "Roma ",
         "country": "ITA",
         "id": 156
@@ -3430,5 +3433,23 @@
         ]
       }
     },
-{ "type": "Feature", "properties": { "indirizzo": "Largo del Conservatorio", "img": "form/uploads/IMG-20210114-WA0001.jpg", "status": "1", "city":"Giugliano in Campania", "country":"ITA", "id":194},"geometry": { "type": "Point", "coordinates": [ 14.202157, 40.931616 ] } }  ]
+    {
+      "type": "Feature",
+      "properties": {
+        "indirizzo": "Largo del Conservatorio",
+        "img": "form/uploads/IMG-20210114-WA0001.jpg",
+        "status": "1",
+        "city": "Giugliano in Campania",
+        "country": "ITA",
+        "id": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.202157,
+          40.931616
+        ]
+      }
+    }
+  ]
 }
