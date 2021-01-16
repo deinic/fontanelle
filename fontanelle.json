@@ -2749,11 +2749,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "indirizzo": "Via Lucio Sestio 35",
-        "img": "form/uploads/D6A008C5-591D-4D17-B3C2-7CD9ABA424BD.jpeg",
+        "img": "",
         "status": 1,
         "city": "Roma ",
         "country": "ITA",
