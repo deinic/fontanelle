@@ -4504,7 +4504,7 @@
 { "type": "Feature", "properties": { "id": "node\/7784750085", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4468631, 44.063201 ] } },
 { "type": "Feature", "properties": { "id": "node\/7820427781", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.2825109, 43.8010242 ] } },
 { "type": "Feature", "properties": { "id": "node\/7925657532", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.5498035, 44.0772114 ] } },
-{ "type": "Feature", "properties": { "id": "node\/8308064118", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4221686, 43.9826149 ] } }
+{ "type": "Feature", "properties": { "id": "node\/8308064118", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4221686, 43.9826149 ] } },
 { "type": "Feature", "properties": { "id": "node\/276626896", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.080656, 37.5031144 ] } },
 { "type": "Feature", "properties": { "id": "node\/277025926", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.0827594, 37.5047824 ] } },
 { "type": "Feature", "properties": { "id": "node\/277027360", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.0831012, 37.5173262 ] } },
