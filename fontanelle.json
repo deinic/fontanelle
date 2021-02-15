@@ -3464,7 +3464,7 @@
 { "type": "Feature", "properties": { "id": "node\/2546262508", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3200936, 41.0483229 ] } },
 { "type": "Feature", "properties": { "id": "node\/2595322022", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.334829, 41.3268448 ] } },
 { "type": "Feature", "properties": { "id": "node\/2595322025", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3277936, 41.3297129 ] } },
-{ "type": "Feature", "properties": { "id": "node\/3046351033", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 13.9256158, 41.0629047 ] } },
+{ "type": "Feature", "properties": { "id": 3046351033, "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 13.9256158, 41.0629047 ] } },
 { "type": "Feature", "properties": { "id": "node\/3116630118", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3540824, 41.0668936 ] } },
 { "type": "Feature", "properties": { "id": "node\/3648136231", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3761771, 41.3582751 ] } },
 { "type": "Feature", "properties": { "id": "node\/3678923062", "status": "0", "city": "", "indirizzo": "", "img": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.36207, 41.0725944 ] } },
