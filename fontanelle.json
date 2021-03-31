@@ -5040,7 +5040,8 @@
   { "type": "Feature", "properties": { "id": "node\/7873046495", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.0451486, 37.5912949 ] } },
   { "type": "Feature", "properties": { "id": "node\/7890207085", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.0485777, 37.8909191 ] } },
   { "type": "Feature", "properties": { "id": "node\/7942986985", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.1502283, 37.8923604 ] } },
-  { "type": "Feature", "properties": { "id": "node\/7945522687", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.1053959, 37.5277107 ] } }
-  ]
+  { "type": "Feature", "properties": { "id": "node\/7945522687", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.1053959, 37.5277107 ] } },
+  { "type": "Feature", "properties": { "id": "1788" , "indirizzo": "Via Marcello Scotti", "img": "form/uploads/20210319_121445.jpg", "status": "2", "city":"Procida", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.027564, 40.761545 ] } }
+    ]
   }
   
