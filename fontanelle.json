@@ -5047,7 +5047,7 @@
   { "type": "Feature", "properties": { "id": "1792" , "indirizzo": "via baroni", "img": "", "status": "1", "city":"rimini", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 12.53238, 44.084711 ] } },
   { "type": "Feature", "properties": { "id": "1793" , "indirizzo": "Corso Novara 131", "img": "", "status": "1", "city":"Torino", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 7.701529, 45.078805 ] } },
   { "type": "Feature", "properties": { "id": "1794" , "indirizzo": "via dell’Arcoveggio, 59/8 presso Parco dei Giardini", "img": "form/uploads/56FFCDC7-F856-4846-9684-7E8EC5FE4774.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3516773, 44.5398763 ] } },
-  { "type": "Feature", "properties": { "id": "1794" , "indirizzo": "Largo Celebrano ", "img": "form/uploads/90C6FB21-DD7B-4E34-8F21-B981293EB835.jpeg", "status": "2", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.23824401514973, 40.853727268329465 ] } }
+  { "type": "Feature", "properties": { "id": "1795" , "indirizzo": "Largo Celebrano ", "img": "form/uploads/90C6FB21-DD7B-4E34-8F21-B981293EB835.jpeg", "status": "2", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.23824401514973, 40.853727268329465 ] } }
     ]
 }
   
