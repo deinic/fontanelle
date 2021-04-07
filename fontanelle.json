@@ -5041,6 +5041,9 @@
   { "type": "Feature", "properties": { "id": "node\/7942986985", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.1502283, 37.8923604 ] } },
   { "type": "Feature", "properties": { "id": "node\/7945522687", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 15.1053959, 37.5277107 ] } },
   { "type": "Feature", "properties": { "id": "1788" , "indirizzo": "Via Marcello Scotti", "img": "form/uploads/20210319_121445.jpg", "status": "2", "city":"Procida", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.027564, 40.761545 ] } }
-    ]
-  }
+  { "type": "Feature", "properties": { "id": "1789" , "indirizzo": "via togliatti", "img": "", "status": "1", "city":"Rubiera", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 10.772838, 44.651372 ] } },
+  { "type": "Feature", "properties": { "id": "1790" , "indirizzo": "via bidente", "img": "", "status": "1", "city":"Rimini", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 12.576028, 44.037411 ] } },  
+  { "type": "Feature", "properties": { "id": "1789" , "indirizzo": "via baroni", "img": "", "status": "1", "city":"rimini", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 12.53238, 44.084711 ] } }
+  ]
+}
   
