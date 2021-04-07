@@ -5048,7 +5048,9 @@
   { "type": "Feature", "properties": { "id": "1794" , "indirizzo": "via dell’Arcoveggio, 59/8 presso Parco dei Giardini", "img": "form/uploads/56FFCDC7-F856-4846-9684-7E8EC5FE4774.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3516773, 44.5398763 ] } },
   { "type": "Feature", "properties": { "id": "1795" , "indirizzo": "Largo Celebrano ", "img": "form/uploads/90C6FB21-DD7B-4E34-8F21-B981293EB835.jpeg", "status": "2", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.23824401514973, 40.853727268329465 ] } },
   { "type": "Feature", "properties": { "id": "1796" , "indirizzo": "Corso Terracciano", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.123734, 40.827336 ] } },
-  { "type": "Feature", "properties": { "id": "1797" , "indirizzo": "Parco pubblico lungomare Pertini", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.131492, 40.820963 ] } }    
-  ]
+  { "type": "Feature", "properties": { "id": "1797" , "indirizzo": "Parco pubblico lungomare Pertini", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.131492, 40.820963 ] } },    
+  { "type": "Feature", "properties": { "id": "1798" , "indirizzo": "Via Carmine ", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.125226, 40.824279 ] } },
+  { "type": "Feature", "properties": { "id": "1799" , "indirizzo": "Villa Avellino ", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.123998, 40.824339 ] } }
+    ]
 }
   
