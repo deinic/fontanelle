@@ -5045,7 +5045,8 @@
   { "type": "Feature", "properties": { "id": "1790" , "indirizzo": "via bidente", "img": "", "status": "1", "city":"Rimini", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 12.576028, 44.037411 ] } },  
   { "type": "Feature", "properties": { "id": "1791" , "indirizzo": "Via Sassari 28", "img": "", "status": "1", "city":"Torino", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 7.678006, 45.082142 ] } },        
   { "type": "Feature", "properties": { "id": "1792" , "indirizzo": "via baroni", "img": "", "status": "1", "city":"rimini", "country":"ita" },"geometry": { "type": "Point", "coordinates": [ 12.53238, 44.084711 ] } },
-  { "type": "Feature", "properties": { "id": "1793" , "indirizzo": "Corso Novara 131", "img": "", "status": "1", "city":"Torino", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 7.701529, 45.078805 ] } }
+  { "type": "Feature", "properties": { "id": "1793" , "indirizzo": "Corso Novara 131", "img": "", "status": "1", "city":"Torino", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 7.701529, 45.078805 ] } },
+  { "type": "Feature", "properties": { "id": "1794" , "indirizzo": "via dell’Arcoveggio, 59/8 presso Parco dei Giardini", "img": "form/uploads/56FFCDC7-F856-4846-9684-7E8EC5FE4774.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3516773, 44.5398763 ] } }        
     ]
 }
   
