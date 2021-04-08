@@ -4429,7 +4429,7 @@
   { "type": "Feature", "properties": { "id": "node\/2034970427", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.2883509, 43.8382007 ] } },
   { "type": "Feature", "properties": { "id": "node\/2034970434", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.2874657, 43.8407989 ] } },
   { "type": "Feature", "properties": { "id": "node\/2045790528", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.2434695, 43.761013 ] } },
-  { "type": "Feature", "properties": { "id": "node/2262867171" , "indirizzo": "Viale Libia", "img": "form/uploads/image.jpg", "status": "1", "city":"Rimini", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 12.5801976, 44.0626386 ] } },
+  { "type": "Feature", "properties": { "id": "node/2262867171" , "indirizzo": "Viale Libia", "img": "form/uploads/image2.jpg", "status": "1", "city":"Rimini", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 12.5801976, 44.0626386 ] } },
   { "type": "Feature", "properties": { "id": "node\/2311423559", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.3526566, 43.8969974 ] } },
   { "type": "Feature", "properties": { "id": "node\/2342502603", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.5510095, 44.0411876 ] } },
   { "type": "Feature", "properties": { "id": "node\/2600659665", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "" }, "geometry": { "type": "Point", "coordinates": [ 12.4527189, 44.019906 ] } },
@@ -5051,7 +5051,7 @@
   { "type": "Feature", "properties": { "id": "1797" , "indirizzo": "Parco pubblico lungomare Pertini", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.131492, 40.820963 ] } },    
   { "type": "Feature", "properties": { "id": "1798" , "indirizzo": "Via Carmine ", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.125226, 40.824279 ] } },
   { "type": "Feature", "properties": { "id": "1799" , "indirizzo": "Villa Avellino ", "img": "", "status": "2", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.123998, 40.824339 ] } },
-  { "type": "Feature", "properties": { "id": "1800" , "indirizzo": "Via San Quirico 165", "img": "form/uploads/image.jpg", "status": "1", "city":"Campi Bisenzio", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.575225, 43.25518 ] } }
+  { "type": "Feature", "properties": { "id": "1800" , "indirizzo": "Via San Quirico 165", "img": "form/uploads/image1.jpg", "status": "1", "city":"Campi Bisenzio", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.575225, 43.25518 ] } }
     ]
 }
   
