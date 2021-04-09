@@ -5053,7 +5053,8 @@
   { "type": "Feature", "properties": { "id": "1799" , "indirizzo": "Villa Avellino ", "img": "", "status": "2", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.123998, 40.824339 ] } },
   { "type": "Feature", "properties": { "id": "1800" , "indirizzo": "Via San Quirico 165", "img": "form/uploads/image1.jpg", "status": "1", "city":"Campi Bisenzio", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.575225, 43.25518 ] } },
   { "type": "Feature", "properties": { "id": "1801" , "indirizzo": "Via monte massico 20", "img": "form/uploads/3FEDB9A8-E669-4180-BDF2-98D5843E68DA.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.535074, 41.950398 ] } },
-  { "type": "Feature", "properties": { "id": "1802" , "indirizzo": "Via passo del turchino 18", "img": "form/uploads/DAAB386D-9135-4AE8-B30B-D142CDC31B83.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.537792, 41.950501 ] } }
+  { "type": "Feature", "properties": { "id": "1802" , "indirizzo": "Via passo del turchino 18", "img": "form/uploads/DAAB386D-9135-4AE8-B30B-D142CDC31B83.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.537792, 41.950501 ] } },
+  { "type": "Feature", "properties": { "id": "1803" , "indirizzo": "piazza Giuseppe Garilbadi 5", "img": "", "status": "1", "city":"Civitanova Marche Alta", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 13.683402, 43.315992 ] } }      
     ]
 }
   
