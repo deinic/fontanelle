@@ -5055,7 +5055,7 @@
   { "type": "Feature", "properties": { "id": "1801" , "indirizzo": "Via monte massico 20", "img": "form/uploads/3FEDB9A8-E669-4180-BDF2-98D5843E68DA.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.535074, 41.950398 ] } },
   { "type": "Feature", "properties": { "id": "1802" , "indirizzo": "Via passo del turchino 18", "img": "form/uploads/DAAB386D-9135-4AE8-B30B-D142CDC31B83.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.537792, 41.950501 ] } },
   { "type": "Feature", "properties": { "id": "1803" , "indirizzo": "piazza Giuseppe Garilbadi 5", "img": "", "status": "1", "city":"Civitanova Marche Alta", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 13.683402, 43.315992 ] } },      
-  { "type": "Feature", "properties": { "id": "1804" , "indirizzo": "Via monte massico ", "img": "form/uploads/B53D6480-CCAA-4032-AD68-21C53FE8DF27.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.531018, 41.951552 ] } }
+  { "type": "Feature", "properties": { "id": "1804" , "indirizzo": "Via monte massico ", "img": "form/uploads/1617981465B53D6480-CCAA-4032-AD68-21C53FE8DF27.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.531018, 41.951552 ] } }
     ]
 }
   
