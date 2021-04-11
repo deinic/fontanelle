@@ -5056,7 +5056,18 @@
   { "type": "Feature", "properties": { "id": "1802" , "indirizzo": "Via passo del turchino 18", "img": "form/uploads/DAAB386D-9135-4AE8-B30B-D142CDC31B83.jpeg", "status": "1", "city":"Roma", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.537792, 41.950501 ] } },
   { "type": "Feature", "properties": { "id": "1803" , "indirizzo": "piazza Giuseppe Garilbadi 5", "img": "", "status": "1", "city":"Civitanova Marche Alta", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 13.683402, 43.315992 ] } },      
   { "type": "Feature", "properties": { "id": "1804" , "indirizzo": "Via monte massico ", "img": "form/uploads/1617981465B53D6480-CCAA-4032-AD68-21C53FE8DF27.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.531018, 41.951552 ] } },
-  { "type": "Feature", "properties": { "id": "1805" , "indirizzo": "Via Giuseppe Verdi ", "img": "", "status": "1", "city":"Caserta", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.332609, 41.069066 ] } }
-    ]
+  { "type": "Feature", "properties": { "id": "1805" , "indirizzo": "Via Giuseppe Verdi ", "img": "", "status": "1", "city":"Caserta", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.332609, 41.069066 ] } },
+{ "type": "Feature", "properties": { "id": "1806" , "indirizzo": "Via Cicerone", "img": "", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.0904, 40.842561 ] } },
+{ "type": "Feature", "properties": { "id": "1807" , "indirizzo": "Via Girone", "img": "", "status": "1", "city":"Pozzuoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.123821, 40.82726 ] } },
+{ "type": "Feature", "properties": { "id": "1808" , "indirizzo": "Via Perugia", "img": "", "status": "1", "city":"San Nicola la Strada", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.328527, 41.050044 ] } },
+{ "type": "Feature", "properties": { "id": "1809" , "indirizzo": "Via dell’Arcoveggio 59/8", "img": "form/uploads/1618076646330D4BCD-19D8-4838-9A59-2E3474BEA99D.jpeg", "status": "1", "city":"Bologna", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 11.351693, 44.540125 ] } },
+{ "type": "Feature", "properties": { "id": "1810" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618132361E6376B21-277F-442D-9983-312039ABA855.jpeg", "status": "2", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.130054, 40.821284 ] } },
+{ "type": "Feature", "properties": { "id": "1811" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618132520image.jpg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.130011, 40.821289 ] } },
+{ "type": "Feature", "properties": { "id": "1812" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618132649image.jpg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.129673, 40.821296 ] } },
+{ "type": "Feature", "properties": { "id": "1813" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618132739image.jpg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.12882, 40.821333 ] } },
+{ "type": "Feature", "properties": { "id": "1814" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618132930image.jpg", "status": "1", "city":"POZZUOLI", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.127753, 40.821357 ] } },
+{ "type": "Feature", "properties": { "id": "1815" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618133034image.jpg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.12653530991467, 40.821319129682344 ] } },
+{ "type": "Feature", "properties": { "id": "1816" , "indirizzo": "Lungomare Pertini", "img": "form/uploads/1618133158image.jpg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.126047, 40.82128 ] } }
+]
 }
   
