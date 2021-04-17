@@ -5071,7 +5071,7 @@
 { "type": "Feature", "properties": { "id": "1818" , "indirizzo": "Piazzale jonio 41", "img": "form/uploads/1618149863C2891FE4-FB3D-450C-AE91-CD888BAE925B.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.525614, 41.946195 ] } },
 { "type": "Feature", "properties": { "id": "1818" , "indirizzo": "Schloßallee", "img": "form/uploads/16185900956B03F54E-7F1D-44B7-A6AF-8EE933595C1C.jpeg", "status": "1", "city":"Wien ", "country":"Aut " },"geometry": { "type": "Point", "coordinates": [ 16.316929, 48.188749 ] } },
 { "type": "Feature", "properties": { "id": "1819" , "indirizzo": "Via Italia", "img": "form/uploads/1618674520B93532A5-70D1-4166-9B28-795454641477.jpeg", "status": "1", "city":"Pozzuoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.078502, 40.835942 ] } },        
-{ "type": "Feature", "properties": { "id": "1820" , "indirizzo": "Viale Pindaro", "img": "", "status": "1", "city":"Pescara", "country":"Italua" },"geometry": { "type": "Point", "coordinates": [ 14.222499, 42.454829 ] } }
+{ "type": "Feature", "properties": { "id": "1820" , "indirizzo": "Viale Pindaro", "img": "88414589575257_3686143383089573510_n.jpg", "status": "1", "city":"Pescara", "country":"Italua" },"geometry": { "type": "Point", "coordinates": [ 14.222499, 42.454829 ] } }
     ]
 }
   
