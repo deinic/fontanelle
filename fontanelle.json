@@ -5077,7 +5077,9 @@
 { "type": "Feature", "properties": { "id": "1823" , "indirizzo": "Mercato sacchetti", "img": "form/uploads/16186808141C539E77-FFF9-4A6C-9A03-B2AF83D6E322.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.543077, 41.947794 ] } } ,   
 { "type": "Feature", "properties": { "id": "1824" , "indirizzo": "Mareschplatz", "img": "form/uploads/1618684855D805400A-CE51-436A-BD0B-02AB93EE9384.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.315411, 48.204126 ] } },
 { "type": "Feature", "properties": { "id": "1825" , "indirizzo": "Via Ugo ojetti 100", "img": "form/uploads/1618736911D2FADDB3-048E-40FF-B939-27F78471AF53.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.550737, 41.944311 ] } },
-{ "type": "Feature", "properties": { "id": "1826" , "indirizzo": "Via Ugo ojetti 22", "img": "form/uploads/1618739190413CE6F0-9DCA-4C0D-A4A1-77BC5A88403E.jpeg", "status": "1", "city":"Roma ", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.548752, 41.943948 ] } }        
+{ "type": "Feature", "properties": { "id": "1826" , "indirizzo": "Via Ugo ojetti 22", "img": "form/uploads/1618739190413CE6F0-9DCA-4C0D-A4A1-77BC5A88403E.jpeg", "status": "1", "city":"Roma ", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.548752, 41.943948 ] } },        
+{ "type": "Feature", "properties": { "id": "1827" , "indirizzo": "4 Ashe Street", "img": "form/uploads/1618862097A7978139-033F-4D5E-9E5A-806C3E878F50.jpeg", "status": "1", "city":"Clonakilty", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.88788, 51.623016 ] } },
+{ "type": "Feature", "properties": { "id": "1828" , "indirizzo": "Inchydoney Road", "img": "form/uploads/1618862821D71ED236-07EA-4998-8B1F-B9144DE0078E.jpeg", "status": "1", "city":"Clonakilty", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.877662, 51.615353 ] } }        
     ]
 }
   
