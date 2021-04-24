@@ -5080,6 +5080,8 @@
 { "type": "Feature", "properties": { "id": "1826" , "indirizzo": "Via Ugo ojetti 22", "img": "form/uploads/1618739190413CE6F0-9DCA-4C0D-A4A1-77BC5A88403E.jpeg", "status": "1", "city":"Roma ", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.548752, 41.943948 ] } },        
 { "type": "Feature", "properties": { "id": "1827" , "indirizzo": "4 Ashe Street", "img": "form/uploads/1618862097A7978139-033F-4D5E-9E5A-806C3E878F50.jpeg", "status": "1", "city":"Clonakilty", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.88788, 51.623016 ] } },
 { "type": "Feature", "properties": { "id": "1828" , "indirizzo": "Inchydoney Road", "img": "form/uploads/1618862821D71ED236-07EA-4998-8B1F-B9144DE0078E.jpeg", "status": "1", "city":"Clonakilty", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.877662, 51.615353 ] } }        
+{ "type": "Feature", "properties": { "id": "1829" , "indirizzo": "Via delle isole curzolane", "img": "form/uploads/1619199411FA1C760A-0707-4A7A-90F1-10514AC46DBC.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.534644, 41.948185 ] } },
+{ "type": "Feature", "properties": { "id": "1830" , "indirizzo": "Piazza degli euganei", "img": "form/uploads/161921098832BA2F7C-A284-42F9-AD69-9434934BB764.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.532563, 41.948967 ] } }
     ]
 }
   
