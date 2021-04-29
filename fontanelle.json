@@ -5082,7 +5082,8 @@
 { "type": "Feature", "properties": { "id": "1828" , "indirizzo": "Inchydoney Road", "img": "form/uploads/1618862821D71ED236-07EA-4998-8B1F-B9144DE0078E.jpeg", "status": "1", "city":"Clonakilty", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.877662, 51.615353 ] } },        
 { "type": "Feature", "properties": { "id": "1829" , "indirizzo": "Via delle isole curzolane", "img": "form/uploads/1619199411FA1C760A-0707-4A7A-90F1-10514AC46DBC.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.534644, 41.948185 ] } },
 { "type": "Feature", "properties": { "id": "1830" , "indirizzo": "Piazza degli euganei", "img": "form/uploads/161919978732BA2F7C-A284-42F9-AD69-9434934BB764.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.532563, 41.948967 ] } },
-{ "type": "Feature", "properties": { "id": "1831" , "indirizzo": "Pier Rd, Scilly", "img": "form/uploads/161937953244773213-8244-4693-A145-6402A6218AD3.jpeg", "status": "1", "city":"Kinsale", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.518449, 51.701414 ] } }
-]
+{ "type": "Feature", "properties": { "id": "1831" , "indirizzo": "Pier Rd, Scilly", "img": "form/uploads/161937953244773213-8244-4693-A145-6402A6218AD3.jpeg", "status": "1", "city":"Kinsale", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.518449, 51.701414 ] } },
+{ "type": "Feature", "properties": { "id": "1832" , "indirizzo": "Piazza Santa Croce ", "img": "form/uploads/16196895957A665CA8-BBC9-4054-B3B7-BACC2B7482F2.jpeg", "status": "1", "city":"Cardito", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.298964, 40.941925 ] } }
+    ]
 }
   
