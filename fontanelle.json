@@ -5084,7 +5084,8 @@
 { "type": "Feature", "properties": { "id": "1830" , "indirizzo": "Piazza degli euganei", "img": "form/uploads/161919978732BA2F7C-A284-42F9-AD69-9434934BB764.jpeg", "status": "1", "city":"Roma", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.532563, 41.948967 ] } },
 { "type": "Feature", "properties": { "id": "1831" , "indirizzo": "Pier Rd, Scilly", "img": "form/uploads/161937953244773213-8244-4693-A145-6402A6218AD3.jpeg", "status": "1", "city":"Kinsale", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.518449, 51.701414 ] } },
 { "type": "Feature", "properties": { "id": "1832" , "indirizzo": "Piazza Santa Croce ", "img": "form/uploads/16196895957A665CA8-BBC9-4054-B3B7-BACC2B7482F2.jpeg", "status": "1", "city":"Cardito", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.298964, 40.941925 ] } },
-{ "type": "Feature", "properties": { "id": "1833" , "indirizzo": "via Massimo Gorki 4", "img": "form/uploads/16204211865DABBF1D-5F14-4EDE-AE18-67C34C243D38.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3574429, 44.5460784 ] } }
+{ "type": "Feature", "properties": { "id": "1833" , "indirizzo": "via Massimo Gorki 4", "img": "form/uploads/16204211865DABBF1D-5F14-4EDE-AE18-67C34C243D38.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3574429, 44.5460784 ] } },
+{ "type": "Feature", "properties": { "id": "1834" , "indirizzo": "Heschweg", "img": "form/uploads/1622734977BF281354-B7C3-456C-9003-5EAE4196A04B.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.277651, 48.214382 ] } }
     ]
 }
   
