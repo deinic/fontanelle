@@ -5085,7 +5085,8 @@
 { "type": "Feature", "properties": { "id": "1831" , "indirizzo": "Pier Rd, Scilly", "img": "form/uploads/161937953244773213-8244-4693-A145-6402A6218AD3.jpeg", "status": "1", "city":"Kinsale", "country":"IRL" },"geometry": { "type": "Point", "coordinates": [ -8.518449, 51.701414 ] } },
 { "type": "Feature", "properties": { "id": "1832" , "indirizzo": "Piazza Santa Croce ", "img": "form/uploads/16196895957A665CA8-BBC9-4054-B3B7-BACC2B7482F2.jpeg", "status": "1", "city":"Cardito", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.298964, 40.941925 ] } },
 { "type": "Feature", "properties": { "id": "1833" , "indirizzo": "via Massimo Gorki 4", "img": "form/uploads/16204211865DABBF1D-5F14-4EDE-AE18-67C34C243D38.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3574429, 44.5460784 ] } },
-{ "type": "Feature", "properties": { "id": "1834" , "indirizzo": "Heschweg", "img": "form/uploads/1622734977BF281354-B7C3-456C-9003-5EAE4196A04B.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.277651, 48.214382 ] } }
+{ "type": "Feature", "properties": { "id": "1834" , "indirizzo": "Heschweg", "img": "form/uploads/1622734977BF281354-B7C3-456C-9003-5EAE4196A04B.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.277651, 48.214382 ] } },
+{ "type": "Feature", "properties": { "id": "1835" , "indirizzo": "Piazza Wojtyla", "img": "form/uploads/1622741816IMG_20210531_110239_BURST001_COVER.jpg", "status": "1", "city":"Cerreto Sannita", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.555764, 41.282363 ] } }
     ]
 }
   
