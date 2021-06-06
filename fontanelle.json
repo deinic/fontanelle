@@ -5087,7 +5087,8 @@
 { "type": "Feature", "properties": { "id": "1833" , "indirizzo": "via Massimo Gorki 4", "img": "form/uploads/16204211865DABBF1D-5F14-4EDE-AE18-67C34C243D38.jpeg", "status": "1", "city":"Bologna", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.3574429, 44.5460784 ] } },
 { "type": "Feature", "properties": { "id": "1834" , "indirizzo": "Heschweg", "img": "form/uploads/1622734977BF281354-B7C3-456C-9003-5EAE4196A04B.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.277651, 48.214382 ] } },
 { "type": "Feature", "properties": { "id": "1835" , "indirizzo": "Piazza Wojtyla", "img": "form/uploads/1622741816IMG_20210531_110239_BURST001_COVER.jpg", "status": "1", "city":"Cerreto Sannita", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.555764, 41.282363 ] } },
-{ "type": "Feature", "properties": { "id": "1836" , "indirizzo": "Casa dell'acqua, Villa Comunale", "img": "form/uploads/1622890893IMG_20210605_114555_BURST001_COVER.jpg", "status": "1", "city":"Villaricca", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.18851, 40.919756 ] } }
-    ]
+{ "type": "Feature", "properties": { "id": "1836" , "indirizzo": "Casa dell'acqua, Villa Comunale", "img": "form/uploads/1622890893IMG_20210605_114555_BURST001_COVER.jpg", "status": "1", "city":"Villaricca", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.18851, 40.919756 ] } },
+{ "type": "Feature", "properties": { "id": "1837" , "indirizzo": "Viale della Pineta", "img": "", "status": "1", "city":"Pescara", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.239438, 42.451142 ] } },
+{ "type": "Feature", "properties": { "id": "1838" , "indirizzo": "Viale L.D'Annunzio", "img": "", "status": "1", "city":"Pescara", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.235812, 42.453529 ] } },    ]
 }
   
