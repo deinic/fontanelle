@@ -493,23 +493,6 @@
       {
         "type": "Feature",
         "properties": {
-          "indirizzo": "Largo madre Teresa di Calcutta",
-          "status": "0",
-          "city": "Napoli",
-          "country": "ITA",
-          "id": "28"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.2180682,
-            40.8375879
-          ]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
           "indirizzo": "Piazza Francesco Muzii",
           "status": "0",
           "city": "Napoli",
@@ -5092,7 +5075,8 @@
 { "type": "Feature", "properties": { "id": "1839" , "indirizzo": "Viale della Pineta", "img": "form/uploads/162313956720210602_120623.jpg", "status": "1", "city":"Pescara", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.236395, 42.45178 ] } },
 { "type": "Feature", "properties": { "id": "1840" , "indirizzo": "Piazza Annunziata", "img": "form/uploads/1623792315index1.jpg", "status": "1", "city":"Giugliano in Campania", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.197337, 40.928612 ] } },
 { "type": "Feature", "properties": { "id": "1841" , "indirizzo": "Wasagaße", "img": "form/uploads/1623946925A9F093CB-A586-430B-A3C9-76873E2657A1.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.359372, 48.218499 ] } }, 
-{ "type": "Feature", "properties": { "id": "1842" , "indirizzo": "Wasagaße", "img": "form/uploads/162394687550A475D8-2BA6-482C-8824-A6F0DE1A1EE5.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.359587, 48.218564 ] } }
+{ "type": "Feature", "properties": { "id": "1842" , "indirizzo": "Wasagaße", "img": "form/uploads/162394687550A475D8-2BA6-482C-8824-A6F0DE1A1EE5.jpeg", "status": "1", "city":"Vienna", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.359587, 48.218564 ] } },
+{ "type": "Feature", "properties": { "id": "1843" , "indirizzo": "Largo Madre Teresa di Calcutta", "img": "form/uploads/16241279017FA7E68B-60A1-498E-9996-6A4804302D8D.jpeg", "status": "2", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.218052, 40.837755 ] } }
     ]
 }
   
