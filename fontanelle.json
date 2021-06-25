@@ -5077,7 +5077,8 @@
 { "type": "Feature", "properties": { "id": "1841" , "indirizzo": "Wasagaße", "img": "form/uploads/1623946925A9F093CB-A586-430B-A3C9-76873E2657A1.jpeg", "status": "1", "city":"Wien", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.359372, 48.218499 ] } }, 
 { "type": "Feature", "properties": { "id": "1842" , "indirizzo": "Wasagaße", "img": "form/uploads/162394687550A475D8-2BA6-482C-8824-A6F0DE1A1EE5.jpeg", "status": "1", "city":"Wien", "country":"Austria" },"geometry": { "type": "Point", "coordinates": [ 16.359587, 48.218564 ] } },
 { "type": "Feature", "properties": { "id": "1843" , "indirizzo": "Largo Madre Teresa di Calcutta", "img": "form/uploads/16241279017FA7E68B-60A1-498E-9996-6A4804302D8D.jpeg", "status": "2", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.218052, 40.837755 ] } },
-{ "type": "Feature", "properties": { "id": "1843" , "indirizzo": "Area Marina Protetta Parco Sommerso di Gaiola-Discesa Gaiola", "img": "form/uploads/1624599188C8536C25-78C3-4131-87B3-C823FA3CF1F1.jpeg", "status": "1", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.187389, 40.792446 ] } }
+{ "type": "Feature", "properties": { "id": "1843" , "indirizzo": "Area Marina Protetta Parco Sommerso di Gaiola-Discesa Gaiola", "img": "form/uploads/1624599188C8536C25-78C3-4131-87B3-C823FA3CF1F1.jpeg", "status": "1", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.187389, 40.792446 ] } },
+{ "type": "Feature", "properties": { "id": "1844" , "indirizzo": "Via Francesco Caracciolo, spiaggia di Mergellina", "img": "form/uploads/1624635715mergellina.jpg", "status": "1", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.220753, 40.825676 ] } }
     ]
 }
   
