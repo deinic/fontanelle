@@ -1073,23 +1073,7 @@
           ]
         }
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "indirizzo": "Piazza IV giornate",
-          "status": "0",
-          "city": "Napoli",
-          "country": "ITA",
-          "id": "63"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.225192266034123,
-            40.84636687512588
-          ]
-        }
-      },
+{ "type": "Feature", "properties": { "id": "63" , "indirizzo": "Piazza Quattro Giornate", "img": "form/uploads/1624892545quattrogiornate.jpg", "status": "1", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.225192266034123, 40.84636687512588 ] } },
       {
         "type": "Feature",
         "properties": {
