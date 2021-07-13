@@ -5067,7 +5067,10 @@
 { "type": "Feature", "properties": { "id": "1846" , "indirizzo": "Centro storico", "img": "form/uploads/16254809053B295101-4E55-4609-BDA8-5595D51704D7.jpeg", "status": "2", "city":"Diamante", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 15.822716, 39.676425 ] } },
 { "type": "Feature", "properties": { "id": "1847" , "indirizzo": "Via libertà 14", "img": "form/uploads/162548114972B2355B-B255-4402-89DA-D3059EB296AE.jpeg", "status": "1", "city":"Diamante", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 15.818226, 39.677995 ] } },
 { "type": "Feature", "properties": { "id": "1848" , "indirizzo": "Rivello", "img": "form/uploads/16254858715536024A-324D-4B39-92C1-110B2B9A68A6.jpeg", "status": "1", "city":"Rivello", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 15.761261, 40.0818 ] } },
-{ "type": "Feature", "properties": { "id": "1849" , "indirizzo": "Piazza Municipio", "img": "form/uploads/16258177237AE91A89-6EE7-42D0-8275-A4A05304EFD2.jpeg", "status": "1", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.251134, 40.839806 ] } }
+{ "type": "Feature", "properties": { "id": "1849" , "indirizzo": "Piazza Municipio", "img": "form/uploads/16258177237AE91A89-6EE7-42D0-8275-A4A05304EFD2.jpeg", "status": "1", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.251134, 40.839806 ] } },
+{ "type": "Feature", "properties": { "id": "1850" , "indirizzo": "Viale vittoria Colonna,32", "img": "form/uploads/1626168120IMG-20210712-WA0051.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.106001, 41.782135 ] } },
+{ "type": "Feature", "properties": { "id": "1850" , "indirizzo": "Viale Zottole", "img": "form/uploads/1626168224IMAG8468.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.1060, 41.783 ] } },
+{ "type": "Feature", "properties": { "id": "1850" , "indirizzo": "Via Riviera 112", "img": "form/uploads/1626168356IMAG8455.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITa" },"geometry": { "type": "Point", "coordinates": [ 14.1053, 41.78 ] } }        
     ]
 }
   
