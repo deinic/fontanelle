@@ -5070,7 +5070,8 @@
 { "type": "Feature", "properties": { "id": "1851" , "indirizzo": "Viale vittoria Colonna,32", "img": "form/uploads/1626168120IMG-20210712-WA0051.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.106001, 41.782135 ] } },
 { "type": "Feature", "properties": { "id": "1852" , "indirizzo": "Viale Zottole", "img": "form/uploads/1626168224IMAG8468.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.1060, 41.783 ] } },
 { "type": "Feature", "properties": { "id": "1853" , "indirizzo": "Via Riviera 112", "img": "form/uploads/1626168356IMAG8455.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITa" },"geometry": { "type": "Point", "coordinates": [ 14.1053, 41.78 ] } },        
-{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Piazza Vincenzo De Franchis, Barra", "img": "form/uploads/1626173529barra.jpg", "status": "2", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.318444, 40.83989 ] } }
+{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Piazza Vincenzo De Franchis, Barra", "img": "form/uploads/1626173529barra.jpg", "status": "2", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.318444, 40.83989 ] } },
+{ "type": "Feature", "properties": { "id": "1855" , "indirizzo": "Piazza della Repubblica", "img": "form/uploads/1626179867piazzarepubblica_pozzuoli.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.121141, 40.822477 ] } }
     ]
 }
   
