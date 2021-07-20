@@ -5071,7 +5071,11 @@
 { "type": "Feature", "properties": { "id": "1852" , "indirizzo": "Viale Zottole", "img": "form/uploads/1626168224IMAG8468.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.1060, 41.783 ] } },
 { "type": "Feature", "properties": { "id": "1853" , "indirizzo": "Via Riviera 112", "img": "form/uploads/1626168356IMAG8455.jpg", "status": "1", "city":"Castel di Sangro", "country":"ITa" },"geometry": { "type": "Point", "coordinates": [ 14.1053, 41.78 ] } },        
 { "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Piazza Vincenzo De Franchis, Barra", "img": "form/uploads/1626173529barra.jpg", "status": "2", "city":"Napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.318444, 40.83989 ] } },
-{ "type": "Feature", "properties": { "id": "1855" , "indirizzo": "Piazza della Repubblica", "img": "form/uploads/1626179867piazzarepubblica_pozzuoli.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.121141, 40.822477 ] } }
+{ "type": "Feature", "properties": { "id": "1855" , "indirizzo": "Piazza della Repubblica", "img": "form/uploads/1626179867piazzarepubblica_pozzuoli.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.121141, 40.822477 ] } },
+{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Via Vittorio Veneto, la Rocca", "img": "form/uploads/1626797454IMG_20210717_170016.jpg", "status": "1", "city":"Città della Pieve", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.005432, 42.95335 ] } },
+{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Via Lungolago", "img": "form/uploads/1626797167IMG_20210717_211518.jpg", "status": "1", "city":"Castiglione del lago", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 12.055873, 43.124035 ] } },
+{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Belvedere Piazza Olivazzo", "img": "form/uploads/1626797689IMG_20210718_123537.jpg", "status": "1", "city":"Chiusi", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.947247, 43.015079 ] } },
+{ "type": "Feature", "properties": { "id": "1854" , "indirizzo": "Via Porsenna", "img": "form/uploads/1626797792IMG_20210718_130620.jpg", "status": "1", "city":"Chiusi", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.949154, 43.015726 ] } }
     ]
 }
   
