@@ -438,23 +438,7 @@
           ]
         }
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "indirizzo": "Via Carlo Cattaneo 86",
-          "status": "0",
-          "city": "Napoli",
-          "country": "ITA",
-          "id": "25"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.2315904,
-            40.8572041
-          ]
-        }
-      },
+{ "type": "Feature", "properties": { "id": "25" , "indirizzo": "Via Alfredo Vittorio Russo", "img": "form/uploads/162723943207160176-3FA3-44D3-AAC7-98D3EA66B815.jpeg", "status": "1", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.2315904, 40.8572041 ] } },
       {
         "type": "Feature",
         "properties": {
@@ -473,23 +457,7 @@
           ]
         }
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "indirizzo": "Piazza Medaglie d'Oro ",
-          "status": "0",
-          "city": "Napoli",
-          "country": "ITA",
-          "id": "27"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.2306806,
-            40.8505674
-          ]
-        }
-      },
+{ "type": "Feature", "properties": { "id": "27" , "indirizzo": "Piazza Medaglie D'Oro", "img": "form/uploads/16272393575F74AFBF-B437-43C2-A07E-7F1F8E5866AB.jpeg", "status": "1", "city":"Napoli", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 14.2306806, 40.8505674 ] } },
       {
         "type": "Feature",
         "properties": {
