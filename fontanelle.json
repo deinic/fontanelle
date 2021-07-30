@@ -5014,7 +5014,8 @@
 { "type": "Feature", "properties": { "id": "1861" , "indirizzo": "Corso Campano, 278", "img": "form/uploads/1626980506IMG_20210722_194302.jpg", "status": "1", "city":"Giugliano in Campania", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.19813, 40.928364 ] } },
 { "type": "Feature", "properties": { "id": "1862" , "indirizzo": "Campiello de la Fraterna", "img": "form/uploads/1627060161D7F8B371-F5D0-45CA-8508-273EA5D9179D.jpeg", "status": "1", "city":"Venezia", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 12.345098, 45.435823 ] } },
 { "type": "Feature", "properties": { "id": "1863" , "indirizzo": "Giardinetti Macellum Tempio di Serapide", "img": "form/uploads/1627376250pozzuoli_serapide.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.119805, 40.82579 ] } },
-{ "type": "Feature", "properties": { "id": "1864" , "indirizzo": "Corso Dante 57", "img": "", "status": "1", "city":"Torino", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 7.673482932295319, 45.04752508836663,  ] } }
+{ "type": "Feature", "properties": { "id": "1864" , "indirizzo": "Corso Dante 57", "img": "", "status": "1", "city":"Torino", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 7.673482932295319, 45.04752508836663 ] } },
+{ "type": "Feature", "properties": { "id": "" , "indirizzo": "Largo Santa lucia", "img": "form/uploads/1627595443image.jpg", "status": "2", "city":"Felline", "country":"Italia" },"geometry": { "type": "Point", "coordinates": [ 18.117785, 39.93644 ] } }        
     ]
 }
   
