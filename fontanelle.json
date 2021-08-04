@@ -5019,7 +5019,9 @@
 { "type": "Feature", "properties": { "id": "1866" , "indirizzo": "Via Roma, 3", "img": "form/uploads/1627627181mariglianella.jpg", "status": "1", "city":"Mariglianella", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.438479, 40.928406 ] } },
 { "type": "Feature", "properties": { "id": "1867" , "indirizzo": "Piazza Salvatore Scoca, giardinetti", "img": "form/uploads/1627627662calitri.jpg", "status": "1", "city":"Calitri", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 15.43615, 40.901318 ] } },
 { "type": "Feature", "properties": { "id": "1868" , "indirizzo": "Via Bolzano", "img": "form/uploads/1627725233inbound2635212608935250577.jpg", "status": "1", "city":"Francavilla al Mare", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.285544, 42.422541 ] } },
-{ "type": "Feature", "properties": { "id": "1869" , "indirizzo": "Parco Quartieri Spagnoli ", "img": "form/uploads/1627739157824A56FB-7B83-4A7F-8B13-365E41D9C9CC.jpeg", "status": "1", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.244601, 40.845851 ] } }        
+{ "type": "Feature", "properties": { "id": "1869" , "indirizzo": "Parco Quartieri Spagnoli ", "img": "form/uploads/1627739157824A56FB-7B83-4A7F-8B13-365E41D9C9CC.jpeg", "status": "1", "city":"Napoli", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.244601, 40.845851 ] } },
+{ "type": "Feature", "properties": { "id": "1866" , "indirizzo": "Via delle terme", "img": "form/uploads/1628026875IMG_5766.JPG", "status": "1", "city":"Pozzuoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.125199, 40.821145 ] } },
+{ "type": "Feature", "properties": { "id": "1866" , "indirizzo": "Via marano pianura 329", "img": "form/uploads/1628029056viamaranopianura.png", "status": "1", "city":"napoli", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.1743765, 40.876512 ] } }
     ]
 }
   
