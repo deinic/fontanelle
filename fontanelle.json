@@ -5038,7 +5038,8 @@
 { "type": "Feature", "properties": { "id": "1885" , "indirizzo": "Fontaine Cafe de la Tour", "img": "form/uploads/1628841321IMG_20210812_192238.jpg", "status": "1", "city":"Nonza", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.344918, 42.784812 ] } },
 { "type": "Feature", "properties": { "id": "1886" , "indirizzo": "Escalier Romieu", "img": "form/uploads/1628841726IMG_20210811_182313.jpg", "status": "1", "city":"Bastia", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.451203, 42.694633 ] } },
 { "type": "Feature", "properties": { "id": "1887" , "indirizzo": "Rue Jean Casale", "img": "form/uploads/1628841838IMG_20210810_213113.jpg", "status": "1", "city":"Bastia", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.450717, 42.69847 ] } },
-{ "type": "Feature", "properties": { "id": "1888" , "indirizzo": "Lungomare Sisinio Zito", "img": "form/uploads/1628951060Screenshot_20210814_162041.jpg", "status": "1", "city":"Roccella Ionica", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 16.412837, 38.323078 ] } }    
+{ "type": "Feature", "properties": { "id": "1888" , "indirizzo": "Lungomare Sisinio Zito", "img": "form/uploads/1628951060Screenshot_20210814_162041.jpg", "status": "1", "city":"Roccella Ionica", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 16.412837, 38.323078 ] } },    
+{ "type": "Feature", "properties": { "id": "1889" , "indirizzo": "Place Paoli", "img": "form/uploads/1628974056IMG_20210813_200227.jpg", "status": "2", "city":"Corte", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.150939, 42.305166 ] } }
     ]
 }
   
