@@ -5043,7 +5043,8 @@
 { "type": "Feature", "properties": { "id": "1890" , "indirizzo": "Rue du Furnellu", "img": "form/uploads/1629055092IMG_20210815_183424.jpg", "status": "2", "city":"Saint-Florent", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.300345, 42.68083 ] } },
 { "type": "Feature", "properties": { "id": "1891" , "indirizzo": "Piazza S.S Annunziata", "img": "form/uploads/1629107334tropea_annunziata.jpg", "status": "1", "city":"Tropea", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 15.88894, 38.67232 ] } },
 { "type": "Feature", "properties": { "id": "1888" , "indirizzo": "Chapelle Santa Maria Assunta", "img": "form/uploads/1629140220DSC_1010.JPG", "status": "1", "city":"Santa-Maria-Poggio", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.496675, 42.3455450 ] } },
-{ "type": "Feature", "properties": { "id": "1888" , "indirizzo": "Fontaine Scotti Maire", "img": "form/uploads/1629140441DSC_1011.JPG", "status": "2", "city":"Valle-di-Campoloro", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.4943171, 42.3349963 ] } }        
+{ "type": "Feature", "properties": { "id": "1888" , "indirizzo": "Fontaine Scotti Maire", "img": "form/uploads/1629140441DSC_1011.JPG", "status": "2", "city":"Valle-di-Campoloro", "country":"FRA" },"geometry": { "type": "Point", "coordinates": [ 9.4943171, 42.3349963 ] } },
+{ "type": "Feature", "properties": { "id": "node/4815615122" , "indirizzo": "Via Giuseppe Mazzini 71", "img": "form/uploads/162917354097E1993C-EF86-44D3-A9D4-F369743BB4CD.jpeg", "status": "1", "city":"Porretta Terme", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 10.9758465, 44.1574216 ] } }        
     ]
 }
   
