@@ -5060,6 +5060,7 @@
 { "type": "Feature", "properties": { "id": "1895" , "indirizzo": "Corso Garibaldi (con vaso)", "img": "form/uploads/1629722116cinquefrondi_garibaldi.jpg", "status": "1", "city":"Cinquefrondi", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 16.09824, 38.41523 ] } },
 { "type": "Feature", "properties": { "id": "1895" , "indirizzo": "Piazza Vittorio Veneto", "img": "form/uploads/1629722975saturnia_piazza.jpg", "status": "1", "city":"Saturnia", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.504603, 42.664459 ] } },
 { "type": "Feature", "properties": { "id": "1895" , "indirizzo": "Fontana Piazza Francesco Petruccioli", "img": "form/uploads/1629723212pitignano.jpg", "status": "1", "city":"Pitigliano", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.669991, 42.634563 ] } }        
+{ "type": "Feature", "properties": { "id": "1906" , "indirizzo": "Via Lungomare ", "img": "form/uploads/1629877947IMG_20210824_090517.jpg", "status": "1", "city":"Caulonia", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 16.46768, 38.34178 ] } }
   ]
 }
 
