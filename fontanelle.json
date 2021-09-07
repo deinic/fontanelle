@@ -3552,7 +3552,7 @@
 { "type": "Feature", "properties": { "id": "node\/2351682113", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.371452, 40.623955 ] } },
 { "type": "Feature", "properties": { "id": "node\/2351682115", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.377433, 40.624344 ] } },
 { "type": "Feature", "properties": { "id": "node\/2351682117", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.369339, 40.624752 ] } },
-{ "type": "Feature", "properties": { "id": "node\/2351682120", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3725133, 40.6252462 ] } },
+{ "type": "Feature", "properties": { "id": "node\/2351682120", "indirizzo": "Corso Italia", "img": "form/uploads/1631017459sorrento.jpg", "status": 1, "city": "Sorrento", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.3725133, 40.6252462 ] } },
 { "type": "Feature", "properties": { "id": "node\/2351682122", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.370912, 40.627262 ] } },
 { "type": "Feature", "properties": { "id": "node\/2351682127", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.379333, 40.627983 ] } },
 { "type": "Feature", "properties": { "id": "node\/2351682130", "indirizzo": "", "img": "", "status": 0, "city": "", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.373088, 40.628033 ] } },
@@ -5061,7 +5061,8 @@
 { "type": "Feature", "properties": { "id": "1895" , "indirizzo": "Piazza Vittorio Veneto", "img": "form/uploads/1629722975saturnia_piazza.jpg", "status": "1", "city":"Saturnia", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.504603, 42.664459 ] } },
 { "type": "Feature", "properties": { "id": "1895" , "indirizzo": "Fontana Piazza Francesco Petruccioli", "img": "form/uploads/1629723212pitignano.jpg", "status": "1", "city":"Pitigliano", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 11.669991, 42.634563 ] } },        
 { "type": "Feature", "properties": { "id": "1906" , "indirizzo": "Via Lungomare ", "img": "form/uploads/1629877947IMG_20210824_090517.jpg", "status": "1", "city":"Caulonia", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 16.46768, 38.34178 ] } },
-{ "type": "Feature", "properties": { "id": "1907" , "indirizzo": "Falasarna", "img": "form/uploads/1630942355IMG_20210906_182745.jpg", "status": "1", "city":"Kissamos", "country":"Gre" },"geometry": { "type": "Point", "coordinates": [ 23.578108, 35.503215 ] } }
+{ "type": "Feature", "properties": { "id": "1907" , "indirizzo": "Falasarna", "img": "form/uploads/1630942355IMG_20210906_182745.jpg", "status": "1", "city":"Kissamos", "country":"Gre" },"geometry": { "type": "Point", "coordinates": [ 23.578108, 35.503215 ] } },
+{ "type": "Feature", "properties": { "id": "1908" , "indirizzo": " Piazza John Fitzgerald Kennedy", "img": "form/uploads/1631017388vico.jpg", "status": "1", "city":"Vico Equense", "country":"ITA" },"geometry": { "type": "Point", "coordinates": [ 14.427782, 40.663013 ] } }
   ]
 }
 
