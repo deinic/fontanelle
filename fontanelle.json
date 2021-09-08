@@ -252,7 +252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "indirizzo": "Piazzetta Miracoli 5-9",
+        "indirizzo": "Piazzetta Miracoli (lato giostrine)",
         "img": "form/uploads/miracoli2.jpg",
         "status": "1",
         "city": "Napoli",
@@ -262,8 +262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2555368,
-          40.8584797
+          14.255769,
+          40.858235 
         ]
       }
     },
@@ -5066,7 +5066,8 @@
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "Via Cristoforo Colombo, 3,", "img": "form/uploads/163103327251171867-06e5-4f20-b51d-46799d515b71.jpg", "status": "2", "city":"Trapani", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.499502, 38.01621 ] } },
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "via mura di tramontana ovest", "img": "form/uploads/1631033436f7bbc4ae-5c69-4b16-9195-8d8d76782bee.jpg", "status": "2", "city":"Trapani", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.504255, 38.017752 ] } },
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "piazza san domenico", "img": "form/uploads/16310335181841976d-7bf1-4114-a84a-7d05bfad5077.jpg", "status": "2", "city":"Erice", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.587972, 38.038297 ] } },
-{ "type": "Feature", "properties": { "id": "1909" , "indirizzo": "Via Meucci", "img": "form/uploads/163103950850E88F02-931F-4888-866C-4A60BA2F9AFD.jpeg", "status": "1", "city":"Pietrastornina", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.72882, 40.992201 ] } }    
+{ "type": "Feature", "properties": { "id": "1909" , "indirizzo": "Via Meucci", "img": "form/uploads/163103950850E88F02-931F-4888-866C-4A60BA2F9AFD.jpeg", "status": "1", "city":"Pietrastornina", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.72882, 40.992201 ] } },    
+{ "type": "Feature", "properties": { "id": "1913" , "indirizzo": "Piazza Miracoli (giardini lato chiesa)", "img": "", "status": "2", "city":"Napoli", "country":"ITA" ,"note":"Di fronte ingresso chiesa, vandalizzata più volte e successivamente chiusa ed eliminato rubinetto"},"geometry": { "type": "Point", "coordinates": [ 14.255789, 40.858601 ] } }
   ]
 }
 
