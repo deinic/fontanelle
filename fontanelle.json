@@ -752,7 +752,8 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Piazza Garibaldi",
-        "status": "0",
+        "status": "1",
+        "img": "form/uploads/1631104522IMG_20210908_143442.jpg", 
         "city": "Napoli",
         "country": "ITA",
         "id": "47"
@@ -5067,7 +5068,9 @@
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "via mura di tramontana ovest", "img": "form/uploads/1631033436f7bbc4ae-5c69-4b16-9195-8d8d76782bee.jpg", "status": "2", "city":"Trapani", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.504255, 38.017752 ] } },
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "piazza san domenico", "img": "form/uploads/16310335181841976d-7bf1-4114-a84a-7d05bfad5077.jpg", "status": "2", "city":"Erice", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 12.587972, 38.038297 ] } },
 { "type": "Feature", "properties": { "id": "1909" , "indirizzo": "Via Meucci", "img": "form/uploads/163103950850E88F02-931F-4888-866C-4A60BA2F9AFD.jpeg", "status": "1", "city":"Pietrastornina", "country":"Ita" },"geometry": { "type": "Point", "coordinates": [ 14.72882, 40.992201 ] } },    
-{ "type": "Feature", "properties": { "id": "1913" , "indirizzo": "Piazza Miracoli (giardini lato chiesa)", "img": "", "status": "2", "city":"Napoli", "country":"ITA" ,"note":"Di fronte ingresso chiesa, vandalizzata più volte e successivamente chiusa ed eliminato rubinetto"},"geometry": { "type": "Point", "coordinates": [ 14.255789, 40.858601 ] } }
+{ "type": "Feature", "properties": { "id": "1913" , "indirizzo": "Piazza Miracoli (giardini lato chiesa)", "img": "", "status": "2", "city":"Napoli", "country":"ITA" ,"note":"Di fronte ingresso chiesa, vandalizzata più volte e successivamente chiusa ed eliminato rubinetto"},"geometry": { "type": "Point", "coordinates": [ 14.255789, 40.858601 ] } },
+{ "type": "Feature", "properties": { "id": "1914" , "indirizzo": "Road to Elafonisi ", "img": "form/uploads/16311016541631101615252685388190847819651.jpg", "status": "1", "city":"Kefali", "country":"Gre" },"geometry": { "type": "Point", "coordinates": [ 23.757889, 35.415379 ] } },
+{ "type": "Feature", "properties": { "id": "1914" , "indirizzo": "Epar.Od. Kaloudianon-Chrisoskalitissas 12, Vathi 730 12, Grecia", "img": "form/uploads/16311023561631101615252685388190847819651.jpg", "status": "1", "city":"Vathi", "country":"Gre" },"geometry": { "type": "Point", "coordinates": [ 23.594966, 35.359753 ] } }
   ]
 }
 
