@@ -93,11 +93,12 @@
       "type": "Feature",
       "properties": {
         "indirizzo": "Bosco di Capodimonte",
-        "img": "",
+        "img": "form/uploads/1631993508IMG_20210918_172536.jpg",
         "status": "1",
         "city": "Napoli",
         "country": "ITA",
-        "id": "5"
+        "id": "5",
+        "note":"Fontanella inizio sette viali"
       },
       "geometry": {
         "type": "Point",
@@ -766,23 +767,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "indirizzo": "Belvedere Bosco di Capodimonte",
-        "status": "0",
-        "city": "Napoli",
-        "country": "ITA",
-        "id": "48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.2511224,
-          40.8655288
-        ]
-      }
-    },
+    { "type": "Feature", "properties": { "id": "48" , "indirizzo": "Via Capodimonte", "img": "form/uploads/16319818701631981785166831739248231890509.jpg", "status": "1", "city":"Naples", "country":"Italia", "note":"Fronte Reggia" },"geometry": { "type": "Point", "coordinates": [ 14.2511224, 40.8655288 ] } },
     {
       "type": "Feature",
       "properties": {
@@ -5071,7 +5056,8 @@
 { "type": "Feature", "properties": { "id": "1913" , "indirizzo": "Piazza Miracoli (giardini lato chiesa)", "img": "", "status": "2", "city":"Napoli", "country":"ITA" ,"note":"Di fronte ingresso chiesa, vandalizzata più volte e successivamente chiusa ed eliminato rubinetto"},"geometry": { "type": "Point", "coordinates": [ 14.255789, 40.858601 ] } },
 { "type": "Feature", "properties": { "id": "1914" , "indirizzo": "Epar.Od. Kaloudianon-Chrisoskalitissas 12, Vathi 730 12, Grecia", "img": "form/uploads/16311023561631101615252685388190847819651.jpg", "status": "1", "city":"Vathi", "country":"Gre" },"geometry": { "type": "Point", "coordinates": [ 23.594966, 35.359753 ] } },
 { "type": "Feature", "properties": { "id": "1915" , "indirizzo": "Via Pasquale Berrilli", "img": "form/uploads/1631130035calitri_2.jpg", "status": "1", "city":"Calitri", "country":"ITA", "note":"Come tutte le fontane dell’Acquedotto Pubblico Pugliese di zona, non è a getto continuo 👏 <br>Anche se la nobile famiglia Zampaglione produce un ottimo fiano (quello coi vigneti più in alto in Irpinia), biologico e naturale, denominato Il Don Chisciotte (che combatte contro le pale eoliche, contemporanei mulini a vento della zona), che pure disseta bene ma non è gratis, ahimè…" },"geometry": { "type": "Point", "coordinates": [ 15.4388732, 40.8991854 ] } },
-{ "type": "Feature", "properties": { "id": "1915" , "indirizzo": "Via Lungomare di Ponente", "img": "form/uploads/1631130148ascea.jpg", "status": "1", "city":"Marina di Ascea", "country":"ITA", "note":"Zona pedonale " },"geometry": { "type": "Point", "coordinates": [ 15.1734220, 40.1351723 ] } }   
+{ "type": "Feature", "properties": { "id": "1915" , "indirizzo": "Via Lungomare di Ponente", "img": "form/uploads/1631130148ascea.jpg", "status": "1", "city":"Marina di Ascea", "country":"ITA", "note":"Zona pedonale " },"geometry": { "type": "Point", "coordinates": [ 15.1734220, 40.1351723 ] } },
+{ "type": "Feature", "properties": { "id": "1917" , "indirizzo": "Lungomare Cristoforo Colombo", "img": "form/uploads/1631992499IMG_20210918_093719.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA", "note":"Casa dell'acqua" },"geometry": { "type": "Point", "coordinates": [ 14.120765, 40.824124 ] } }    
   ]
 }
 
