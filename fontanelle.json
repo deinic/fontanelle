@@ -405,7 +405,7 @@
         ]
       }
     },
-{ "type": "Feature", "properties": { "id": "23" , "indirizzo": "Piazza Nazionale", "img": "form/uploads/1632483024IMG_20210924_132615.jpg", "status": "1", "city":"Naples", "country":"Italia", "note":"Di fianco edicola lato chalet Barbato" },"geometry": { "type": "Point", "coordinates": [ 14.2739141, 40.8584581 ] } },
+{ "type": "Feature", "properties": { "id": "23" , "indirizzo": "Piazza Nazionale", "img": "form/uploads/1632483024IMG_20210924_132615.jpg", "status": "1", "city":"Napoli", "country":"Italia", "note":"Di fianco edicola lato chalet Barbato" },"geometry": { "type": "Point", "coordinates": [ 14.2739141, 40.8584581 ] } },
     {
       "type": "Feature",
       "properties": {
@@ -751,7 +751,7 @@
         ]
       }
     },
-    { "type": "Feature", "properties": { "id": "48" , "indirizzo": "Via Capodimonte", "img": "form/uploads/16319818701631981785166831739248231890509.jpg", "status": "1", "city":"Naples", "country":"Italia", "note":"Fronte Reggia" },"geometry": { "type": "Point", "coordinates": [ 14.2511224, 40.8655288 ] } },
+    { "type": "Feature", "properties": { "id": "48" , "indirizzo": "Via Capodimonte", "img": "form/uploads/16319818701631981785166831739248231890509.jpg", "status": "1", "city":"Napoli", "country":"Italia", "note":"Fronte Reggia" },"geometry": { "type": "Point", "coordinates": [ 14.2511224, 40.8655288 ] } },
     {
       "type": "Feature",
       "properties": {
