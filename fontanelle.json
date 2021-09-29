@@ -5043,7 +5043,8 @@
 { "type": "Feature", "properties": { "id": "1915" , "indirizzo": "Via Lungomare di Ponente", "img": "form/uploads/1631130148ascea.jpg", "status": "1", "city":"Marina di Ascea", "country":"ITA", "note":"Zona pedonale " },"geometry": { "type": "Point", "coordinates": [ 15.1734220, 40.1351723 ] } },
 { "type": "Feature", "properties": { "id": "1917" , "indirizzo": "Lungomare Cristoforo Colombo", "img": "form/uploads/1631992499IMG_20210918_093719.jpg", "status": "1", "city":"Pozzuoli", "country":"ITA", "note":"Casa dell'acqua" },"geometry": { "type": "Point", "coordinates": [ 14.120765, 40.824124 ] } },    
 { "type": "Feature", "properties": { "id": "1918" , "indirizzo": "Strada Statale Amalfitana", "img": "", "status": "1", "city":"Maiori", "country":"ITA", "note":"Funzionante, ma con foto mancante" },"geometry": { "type": "Point", "coordinates": [ 14.642911, 40.647207 ] } },
-{ "type": "Feature", "properties": { "id": "1918" , "indirizzo": "Via Cigliano", "img": "form/uploads/1632220646IMG_20210919_171054.jpg", "status": "1", "city":"Ravello", "country":"ITA", "note":"Località Castiglione, incrocio con Strada Statale Amalfitana" },"geometry": { "type": "Point", "coordinates": [ 14.612662, 40.638158 ] } }    
+{ "type": "Feature", "properties": { "id": "1918" , "indirizzo": "Via Cigliano", "img": "form/uploads/1632220646IMG_20210919_171054.jpg", "status": "1", "city":"Ravello", "country":"ITA", "note":"Località Castiglione, incrocio con Strada Statale Amalfitana" },"geometry": { "type": "Point", "coordinates": [ 14.612662, 40.638158 ] } },
+{ "type": "Feature", "properties": { "id": "1920" , "indirizzo": "Via San Filippo ", "img": "form/uploads/1632863707IMG_20210927_134958.jpg", "status": "1", "city":"Anagni ", "country":"ITA", "note":"Potabile" },"geometry": { "type": "Point", "coordinates": [ 13.15968, 41.75693 ] } }    
   ]
 }
 
