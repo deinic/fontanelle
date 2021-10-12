@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-{ "type": "Feature", "properties": { "node": "3154037939", "indirizzo": "Piazza Dante", "img": "img/piazza_dante.jpg", "status": "1", "city": "Napoli", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.2501633, 40.8496751 ] } },
+{ "type": "Feature", "properties": { "node": "3154037939", "indirizzo": "Piazza Dante", "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Piazza_dante.jpg", "status": "1", "city": "Napoli", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.2501633, 40.8496751 ] } },
 { "type": "Feature", "properties": { "node": "3154046063", "indirizzo": "San Pietro a Maiella", "status": "0", "city": "Napoli", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.2528622, 40.8496788 ] } },
 { "type": "Feature", "properties": { "node": "3161446604", "indirizzo": "Piazza del Gesù", "img": "img/piazza_del_gesu.jpg", "status": "1", "city": "Napoli", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.2520824, 40.8472592 ] } },
 { "type": "Feature", "properties": { "node": "3724509639", "indirizzo": "Piazza Mazzini", "img": "img/piazza_mazzini.jpg", "status": "1", "city": "Napoli", "country": "ITA" }, "geometry": { "type": "Point", "coordinates": [ 14.2427567, 40.8513265 ] } },
