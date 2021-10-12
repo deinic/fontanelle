@@ -14,14 +14,16 @@ you can find the whole public json where the project takes its source data.
 
 Attributes
 
+'node'=OSM node if it exists
 'indirizzo' = address <br>
 'img' = path to picture of drinking water point<br>
 'status' = Drinking Water point status (0:to be checked, 1:working, 2:not working)<br>
 'city' = Drinking Water point city<br>
 'country' = Drinking Water spot country (eg. ITA, AUT, ESP, FRA, etc..)<br>
+'note'= Annotation
 
 
 
 
-*Part of data are taken by OSM, in detail only record data which have properties set as status = 0 AND city = 'Naples'
+*Data are partially taken by OpenStreetMap platform, new reports will be insert on the platform.
 
