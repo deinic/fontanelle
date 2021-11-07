@@ -1919,7 +1919,7 @@
 { "type": "Feature", "properties": { "node": "9166709769" , "indirizzo": "Via San Filippo ", "img": "https://maps.nicoladeinnocentis.it/acquamat/form/uploads/1632863707IMG_20210927_134958.jpg", "status": 1, "city":"Anagni ", "country":"ITA", "note":"Potabile" },"geometry": { "type": "Point", "coordinates": [ 13.15968, 41.75693 ] } },    
 { "type": "Feature", "properties": { "node": "tmp_472938" , "indirizzo": "Villa Comunale", "img": "form/uploads/163567018420211029_210542.jpg", "status": "1", "city":"Frattamaggiore", "country":"ITA", "note":"" },"geometry": { "type": "Point", "coordinates": [ 14.269514, 40.939363 ] } },
 { "type": "Feature", "properties": { "node": "tmp_856736" , "indirizzo": "Via Carlo Poerio 9", "img": "form/uploads/1636106098pomigliano.jpg", "status": "1", "city":"Pomigliano", "country":"ITA", "note":"" },"geometry": { "type": "Point", "coordinates": [ 14.390328, 40.908713 ] } },
-{ "type": "Feature", "properties": { "node": "1800494148" , "indirizzo": "Weserstrasse 212", "img": "form/uploads/1636144672BCE195E5-CA17-4A5A-A17C-45E5C8764095.jpeg", "status": "1", "city":"Berlin", "country":"GER", "note":"" },"geometry": { "type": "Point", "coordinates": [ 13.42702, 52.488258 ] } }
+{ "type": "Feature", "properties": { "node": "1800494148" , "indirizzo": "Weserstrasse 212", "img": "form/uploads/1636144672BCE195E5-CA17-4A5A-A17C-45E5C8764095.jpeg", "status": "1", "city":"Berlin", "country":"DEU", "note":"" },"geometry": { "type": "Point", "coordinates": [ 13.42702, 52.488258 ] } }
 ]
 }
 
